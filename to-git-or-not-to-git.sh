@@ -1,3 +1,3 @@
-my_id_not_your=52787372
-echo "my_id_not_your"
+he_id_not_my=52787372
+echo "$he_id_not_my"
 echo '`'
