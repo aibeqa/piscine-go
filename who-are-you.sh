@@ -1,3 +1,3 @@
-$jq subject 70
+$jq=70
 echo "$jq"
 
