@@ -1,3 +1,3 @@
-jq subject 70
-echo "jq"
+$jq subject 70
+echo "$jq"
 
