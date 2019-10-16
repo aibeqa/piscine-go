@@ -10,10 +10,10 @@ func PrintComb2() {
 			if num1 < num2 {
 				z01.PrintRune(44)
 				z01.PrintRune(32)
-				fz01.PrintRune("%02d %02d", num1, num2)
+				z01.PrintRune("%02d %02d", num1, num2)
 				count++
 			}
 		}
 	}
-	z01.PrintRune()
+	z01.PrintRune(10)
 }
