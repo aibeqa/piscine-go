@@ -9,8 +9,10 @@ func PrintComb() {
 				z01.PrintRune(i)
 				z01.PrintRune(j)
 				z01.PrintRune(k)
-				z01.PrintRune(42)
-				z01.PrintRune(32)
+				if i != 54 {
+					z01.PrintRune(42)
+					z01.PrintRune(32)
+				}
 			}
 		}
 	}
