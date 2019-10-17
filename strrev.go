@@ -3,7 +3,7 @@ package piscine
 func StrRev(s string) string {
 	var tmp_arr []byte = []byte(s)
 	var l int = 0
-	var r int = len(tmp_arr)-1
+	var r int = len(tmp_arr) - 1
 
 	for l < r {
 		tmp := tmp_arr[l]
