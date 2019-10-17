@@ -6,7 +6,7 @@ import (
 )
 
 func PrintStr(str string) {
-	for _, letter := range str {
-		fmt.Println("%a", letter)
+	for _, gh := range str {
+		fmt.Println("%a", gh)
 	}
 }
