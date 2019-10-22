@@ -1,4 +1,3 @@
-
 package piscine
 
 func RecursivePower(nb int, power int) int {
